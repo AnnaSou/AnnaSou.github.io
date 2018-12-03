@@ -1,7 +1,6 @@
 
 ## Welcome to GitHub Pages
-Hello
-try 1
+
 AnnaSou.github.io
 
 
